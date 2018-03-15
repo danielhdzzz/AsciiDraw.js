@@ -1,0 +1,10 @@
+#asciiCanvas {
+	font-family: monospace;
+	word-break: keep-all;
+	white-space: pre-wrap;
+	text-overflow: ellipsis;
+}
+
+.hidden{
+	color: rgba(0,0,0,0);
+}

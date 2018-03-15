@@ -1,15 +1,17 @@
 # AsciiDraw.js
 
-## A Javascript library for creating Ascii graphics in the browswer.
+A Javascript library for creating Ascii graphics in the browswer.
 
 ### Setup / Usage
 Link files
-```javascript<script src="asciiDraw.js"></script>
+```html
+<script src="asciiDraw.js"></script>
 <link rel="stylesheet" type="text/css" href="asciiDraw.css">
 ```
 
 Create div where the drawing will be displayed
-```javascript<div id="asciiCanvas"></div>
+```html
+<div id="asciiCanvas"></div>
 ```
 
 Set size of drawing and then initialize
