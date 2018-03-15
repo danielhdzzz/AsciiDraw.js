@@ -4,16 +4,19 @@
 
 ### Setup / Usage
 Link files
-`<script src="asciiDraw.js"></script>
-<link rel="stylesheet" type="text/css" href="asciiDraw.css">`
+```javascript<script src="asciiDraw.js"></script>
+<link rel="stylesheet" type="text/css" href="asciiDraw.css">
+```
 
 Create div where the drawing will be displayed
-```<div id="asciiCanvas"></div>```
+```javascript<div id="asciiCanvas"></div>
+```
 
 Set size of drawing and then initialize
 ```javascript
 size(100,80);
-init();```
+init();
+```
 Note that throughout the library, the units usead are characters, not pixels.
 
 Call drawing functions
