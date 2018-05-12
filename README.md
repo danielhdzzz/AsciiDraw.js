@@ -1,5 +1,7 @@
 # AsciiDraw.js
 
+Currently in development.
+
 A Javascript library for creating Ascii graphics in the browswer.
 
 ### Setup / Usage
@@ -40,7 +42,7 @@ background(character);
 
 Afterwards display the drawing.
 ```javascript
-display(targetDiv);
+display("#asciiCanvas");
 ```
 
 ### Coming soon
