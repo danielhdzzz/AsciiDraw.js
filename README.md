@@ -1,3 +1,5 @@
+[For the latest version of this library see graver.js](https://github.com/danielhdzzz/graver.js)
+
 # AsciiDraw.js
 
 Currently in development.
